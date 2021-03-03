@@ -4,7 +4,11 @@ Pequeno programa em C++ que recebe quantidade de camisetas vendidas
 e informa valor a pagar e parcelas.
 
 */
-
+/*
+* Author:  Igor Vinicius Freitas de Souza
+* GitHub: https://github.com/igor1043
+* E-mail: igorviniciusfreitasouza@gmail.com
+*/
 #include<iostream>
 
 using namespace std;
